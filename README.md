@@ -8,4 +8,10 @@ Analysis on Billion dollar companies
 ### Using dax in power bi i created a new measure, dividing the valuation of the companies by the amount used to fund them multiplied by 100 to get the return on investment of each company.As seen above zapier has had the highest return on investment with a massive 60,000%.
 ### How long does it usually take for a company to become unicorn?Has it always been this way?
 ### To get the number of years it has taken companies to become unicorn i created a new column by subtracting the year they were founded from the year they became a unicorn.It takes companies founded before 1980 at least 37 years to become a unicorn company,while comapnies founded between 1980–2000 have taken between 13–37 years to become unicorn, companies founded from 2000 have taken between 16–21 years to join.
-###
+### Which countries has the most unicorns?
+### The United States Of America has the most unicorn company (562)followed by China with 173.
+### Which investors have funded the most unicorns ?
+### What industry has the most funding ?
+### Cybersecurity and health are the most lowest funded in the industry which is quite suprising seeing that the rate of cybercrime around the world is above 50percent with USA being number 1 in top countries suffering from cybercrime.
+### New Unicorn Companies Over Time:
+### The year 2021 recorded the highest number of new unicorn, companies more than four times that of the year before due to more access to funding.
