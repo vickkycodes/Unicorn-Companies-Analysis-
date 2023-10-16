@@ -15,3 +15,4 @@ Analysis on Billion dollar companies
 ### Cybersecurity and health are the most lowest funded in the industry which is quite suprising seeing that the rate of cybercrime around the world is above 50percent with USA being number 1 in top countries suffering from cybercrime.
 ### New Unicorn Companies Over Time:
 ### The year 2021 recorded the highest number of new unicorn, companies more than four times that of the year before due to more access to funding.
+## Final Report
