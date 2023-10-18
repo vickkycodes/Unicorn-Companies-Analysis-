@@ -23,4 +23,4 @@ Analysis on Billion dollar companies
 ### The year 2021 recorded the highest number of new unicorn, companies more than four times that of the year before due to more access to funding.
 ## Final Report
 ![](https://github.com/vickkycodes/Unicorn-Companies-Analysis-/assets/103611857/0d1294c4-600f-4614-aea2-e2e65fa26794)
-### You can interact with the dashboard [here](https://app.powerbi.com/links/38Vx2GJB7I?ctid=dcf13ea8-d9b5-4d15-9488-49eb592f4f39&pbi_source=linkShare)
+### You can interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZmFmOGYyOTktZTQ0Ni00MWRiLWJlNWYtYTQ5MTkxMmI2Nzk1IiwidCI6ImRjZjEzZWE4LWQ5YjUtNGQxNS05NDg4LTQ5ZWI1OTJmNGYzOSIsImMiOjh9)
