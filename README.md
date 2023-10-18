@@ -11,6 +11,7 @@ Analysis on Billion dollar companies
 ![](https://github.com/vickkycodes/Unicorn-Companies-Analysis-/assets/103611857/daeec898-ff0f-4d1d-8a2a-acc6b867b9d3)
 ### To get the number of years it has taken companies to become unicorn i created a new column by subtracting the year they were founded from the year they became a unicorn.It takes companies founded before 1980 at least 37 years to become a unicorn company,while comapnies founded between 1980–2000 have taken between 13–37 years to become unicorn, companies founded from 2000 have taken between 16–21 years to join.
 ### Which countries has the most unicorns?
+![](https://github.com/vickkycodes/Unicorn-Companies-Analysis-/assets/103611857/dd490c57-76c1-4771-a4c0-c6e5d19f6f84)
 ### The United States Of America has the most unicorn company (562)followed by China with 173.
 ### Which investors have funded the most unicorns ?
 ![](https://github.com/vickkycodes/Unicorn-Companies-Analysis-/assets/103611857/5bd16d9f-1934-4334-a570-5dfa626e64af)
