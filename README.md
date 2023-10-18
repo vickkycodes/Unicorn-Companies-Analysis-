@@ -15,6 +15,7 @@ Analysis on Billion dollar companies
 ### Which investors have funded the most unicorns ?
 ### What industry has the most funding ?
 ### Cybersecurity and health are the most lowest funded in the industry which is quite suprising seeing that the rate of cybercrime around the world is above 50percent with USA being number 1 in top countries suffering from cybercrime.
-### New Unicorn Companies Over Time:
+### Trend of New Unicorn Companies Over Time:
+![](https://github.com/vickkycodes/Unicorn-Companies-Analysis-/assets/103611857/bf9e1e3e-269f-46dd-840f-7b6eb2335c17)
 ### The year 2021 recorded the highest number of new unicorn, companies more than four times that of the year before due to more access to funding.
 ## Final Report
