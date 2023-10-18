@@ -1,4 +1,4 @@
-# Unicorn-Companies-Analysis-
+# Unicorn-Companies-Report-
 Analysis on Billion dollar companies 
 ### The term unicorn refers to a privately held startup company with a value of over $1billion .It is commonly used in the venture captalist industry.Unicorn investors tend to be private investors or venture capitalist ecause of their sheer size.
 ## The Task
