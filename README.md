@@ -13,6 +13,7 @@ Analysis on Billion dollar companies
 ### Which countries has the most unicorns?
 ### The United States Of America has the most unicorn company (562)followed by China with 173.
 ### Which investors have funded the most unicorns ?
+![](https://github.com/vickkycodes/Unicorn-Companies-Analysis-/assets/103611857/5bd16d9f-1934-4334-a570-5dfa626e64af)
 ### What industry has the most funding ?
 ### Cybersecurity and health are the most lowest funded in the industry which is quite suprising seeing that the rate of cybercrime around the world is above 50percent with USA being number 1 in top countries suffering from cybercrime.
 ### Trend of New Unicorn Companies Over Time:
