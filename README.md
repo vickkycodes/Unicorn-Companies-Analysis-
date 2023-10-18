@@ -15,6 +15,7 @@ Analysis on Billion dollar companies
 ### Which investors have funded the most unicorns ?
 ![](https://github.com/vickkycodes/Unicorn-Companies-Analysis-/assets/103611857/5bd16d9f-1934-4334-a570-5dfa626e64af)
 ### What industry has the most funding ?
+![](https://github.com/vickkycodes/Unicorn-Companies-Analysis-/assets/103611857/2e9bcf42-87bc-4c48-a212-9dddd5843748)
 ### Cybersecurity and health are the most lowest funded in the industry which is quite suprising seeing that the rate of cybercrime around the world is above 50percent with USA being number 1 in top countries suffering from cybercrime.
 ### Trend of New Unicorn Companies Over Time:
 ![](https://github.com/vickkycodes/Unicorn-Companies-Analysis-/assets/103611857/bf9e1e3e-269f-46dd-840f-7b6eb2335c17)
