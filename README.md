@@ -4,6 +4,11 @@ Analysis on Billion dollar companies
 ## The Task
 
 Analysing the data gotten from maven analytics which contains private companies with a valuation over $1billion as of march 2022,including each company’s current valuation,funding,country of origin,select investors and the years they were founded and became a unicorn using power bi.
+
+## Overview
+![](https://github.com/vickkycodes/Unicorn-Companies-Analysis-/assets/103611857/0d1294c4-600f-4614-aea2-e2e65fa26794)
+### You can interact with the dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZmFmOGYyOTktZTQ0Ni00MWRiLWJlNWYtYTQ5MTkxMmI2Nzk1IiwidCI6ImRjZjEzZWE4LWQ5YjUtNGQxNS05NDg4LTQ5ZWI1OTJmNGYzOSIsImMiOjh9)
+
 ## Key Insights:
 ### Which unicorn companies have had the biggest return on investment ?
 ![% Return on Investment!](https://github.com/vickkycodes/Unicorn-Companies-Analysis-/assets/103611857/3ef37f60-5f49-4095-84e6-e3fdb9c011e0)
